@@ -149,3 +149,7 @@ The protocol was decoded by the community, in particular by [ear-web](https://gi
 The window uses the [Space Mono](https://github.com/googlefonts/spacemono) and [Doto](https://github.com/oliverlalan/Doto) fonts, under the SIL Open Font License (see `crates/nothing-tray/assets/fonts`).
 
 This project is not affiliated with Nothing Technology Limited.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The bundled fonts keep their own license, the SIL Open Font License (see Credits).

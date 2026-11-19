@@ -4,6 +4,7 @@ description = "Bluetooth (BlueZ, RFCOMM) connection to Nothing earbuds"
 version.workspace = true
 edition.workspace = true
 rust-version.workspace = true
+license.workspace = true
 
 [dependencies]
 nothing-proto.workspace = true
