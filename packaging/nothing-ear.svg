@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+<rect width="256" height="256" rx="56.32" fill="#000000"/>
+<circle cx="69.97" cy="69.97" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="69.97" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="69.97" r="7.74" fill="#ffffff"/>
+<circle cx="186.03" cy="69.97" r="7.74" fill="#ffffff"/>
+<circle cx="50.63" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="69.97" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="186.03" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="205.37" cy="89.32" r="7.74" fill="#ffffff"/>
+<circle cx="50.63" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="69.97" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="186.03" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="205.37" cy="108.66" r="7.74" fill="#ffffff"/>
+<circle cx="69.97" cy="128.00" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="128.00" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="128.00" r="7.74" fill="#ffffff"/>
+<circle cx="186.03" cy="128.00" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="147.34" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="147.34" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="166.68" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="166.68" r="7.74" fill="#ffffff"/>
+<circle cx="89.32" cy="186.03" r="7.74" fill="#ffffff"/>
+<circle cx="166.68" cy="186.03" r="7.74" fill="#d71921"/>
+</svg>

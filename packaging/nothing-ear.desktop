@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Nothing earbuds
+GenericName=Earbuds settings
+Comment=Noise control, equalizer, gestures and battery of Nothing earbuds
+Exec=nothing-ear
+Icon=nothing-ear
+Terminal=false
+Categories=AudioVideo;Audio;Settings;
+Keywords=nothing;ear;bluetooth;earbuds;headphones;anc;
+StartupWMClass=nothing-ear

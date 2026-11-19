@@ -1,0 +1,23 @@
+[package]
+name = "nothing-tray"
+description = "System tray icon and settings window for Nothing earbuds"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+
+[[bin]]
+name = "nothing-ear"
+path = "src/main.rs"
+
+[dependencies]
+nothing-proto.workspace = true
+nothing-link.workspace = true
+tokio.workspace = true
+log.workspace = true
+env_logger.workspace = true
+# ksni uses zbus for D-Bus. The default "tokio" feature would switch zbus to
+# tokio for the whole program, which breaks the accessibility layer of the
+# window (it runs zbus outside of any tokio runtime and panics). "async-io"
+# lets zbus run its own executor.
+ksni = { version = "0.3", default-features = false, features = ["async-io"] }
+eframe = "0.37"

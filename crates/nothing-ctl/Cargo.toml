@@ -1,0 +1,17 @@
+[package]
+name = "nothing-ctl"
+description = "Command-line control of Nothing earbuds"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+nothing-proto.workspace = true
+nothing-link.workspace = true
+tokio.workspace = true
+clap.workspace = true
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+log.workspace = true
+env_logger.workspace = true
